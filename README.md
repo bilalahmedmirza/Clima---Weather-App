@@ -1,16 +1,14 @@
-# clima
+# Clima
+Clima is a simple weather app which tells about the current temperature in different locations using Open Weather Map API.
 
-A new Flutter project.
+## Details
 
-## Getting Started
+```bash
+  ➞ Find out the current tempearture in your city.
+  ➞ Find out the tempearture of your dream vacation destination.
+  ➞ Have a quick glance at the weather before leaving home to take all necessities with you.
+  ```
+    
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/bilalahmedmirza/Clima---Weather-App/blob/master/PHOTOS/1.png" width="350" height="510"> <img src="https://github.com/bilalahmedmirza/Clima---Weather-App/blob/master/PHOTOS/2.png" width="350" height="510"> <img src="https://github.com/bilalahmedmirza/Clima---Weather-App/blob/master/PHOTOS/3.png" width="350" height="510">
